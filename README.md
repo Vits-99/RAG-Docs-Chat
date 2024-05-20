@@ -54,7 +54,11 @@ RAG-Docs-Chat is a modular and extensible framework for building question-answer
     pip install -r requirements.txt
     ```
 
-4. Set up the environment variables:
+4. Install Ollama:
+
+    Download and install Ollama from the official website: [Download Ollama here!](https://ollama.com/download)
+
+5. Set up the environment variables:
 
     Create a `.env` file in the root directory of the project and add the following variables:
 
