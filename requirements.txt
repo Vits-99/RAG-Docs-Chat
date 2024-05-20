@@ -1,0 +1,9 @@
+langchain
+langchain-core
+langchain-openai
+langchainhub
+python-dotenv
+requests
+pypdf
+langchain_community
+faiss-gpu
